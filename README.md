@@ -55,6 +55,13 @@
   <a href="https://code.visualstudio.com/">
     <img src="https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   </a>
+    <a href="#">
+    <img src="https://img.shields.io/badge/Typing-00C853?style=for-the-badge&logo=materialdesign&logoColor=white" alt="Typing" />
+  </a>
+  <a href="https://www.adobe.com/creativecloud.html">
+    <img src="https://img.shields.io/badge/Graphic_Design-FF6F00?style=for-the-badge&logo=adobecreativecloud&logoColor=white" alt="Graphic Design" />
+  </a>
+
 </p>
 
 ---

@@ -12,7 +12,7 @@
 
 ## 🌍 About Me
 💻 Founder of [PhilexTech Web and Software Development Company](https://philextech.com.ng)  
-🎓 HND1 Software & Web Development Student, Computer Science Department  
+🎓 HND II Final Year Software & Web Development Student, Computer Science Department  
 📍 Based in Lafia, Nasarawa State, Nigeria  
 📧 [sesughgabriel2002@gmail.com](mailto:sesughgabriel2002@gmail.com)  
 👤 GitHub Username: [@philextech-web](https://github.com/philextech-web)  
@@ -72,6 +72,7 @@
 |----------|--------------|-----------|
 | 🌐 **PhilexTech Official Website** | Company portfolio and service site | [Visit Site](https://philextech.com.ng) |
 | 💕 **LoveConnect** | Social platform to meet new people | [Visit Site](https://connect.philextech.com.ng) |
+|    
 
 
 ## 📊 GitHub Stats

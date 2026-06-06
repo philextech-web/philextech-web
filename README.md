@@ -18,7 +18,7 @@
 
 💻 Full Stack Web & Software Developer
 
-🚀 Founder & Lead Developer at PhilexTech Web and Software Development Company
+I founded PhilexTech to build web and software solutions while gaining hands-on experience in software development. Alongside managing projects, I am actively seeking remote and full-time opportunities where I can contribute my technical skills, collaborate with experienced teams, and continue growing as a software engineer.
 
 🎓 HND Computer Science (Software & Web Development)
 
